@@ -1,0 +1,11 @@
+{
+    "author": "Ali Sajid",
+    "name": "eloquent-javascript-node-project",
+    "description": "Sample node project part of the Eloquent Javascript node chapter",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "mime": "^2.2.0"
+    },
+    "license": "ISC"
+}
